@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchHistory>
+<launchGroup id="org.eclipse.debug.ui.launchGroup.debug">
+<mruHistory>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1767_프로세서_연결하기&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1260_화학물질2&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1259_금속막대&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1258_행렬찾기&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1221_GNS&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P4047_영준이의_카드_카운팅&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1249_보급로&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1267_작업순서&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1248_공통조상&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1244_최대_상금&quot;/&gt;&#13;&#10;"/>
+</mruHistory>
+<favorites/>
+</launchGroup>
+<launchGroup id="org.eclipse.debug.ui.launchGroup.profile">
+<mruHistory/>
+<favorites/>
+</launchGroup>
+<launchGroup id="org.eclipse.eclemma.ui.launchGroup.coverage">
+<mruHistory>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1767_프로세서_연결하기&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1260_화학물질2&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1259_금속막대&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1258_행렬찾기&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1221_GNS&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P4047_영준이의_카드_카운팅&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1249_보급로&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1267_작업순서&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1248_공통조상&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1244_최대_상금&quot;/&gt;&#13;&#10;"/>
+</mruHistory>
+<favorites/>
+</launchGroup>
+<launchGroup id="org.eclipse.ui.externaltools.launchGroup">
+<mruHistory/>
+<favorites/>
+</launchGroup>
+<launchGroup id="org.eclipse.debug.ui.launchGroup.run">
+<mruHistory>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1767_프로세서_연결하기&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1260_화학물질2&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1259_금속막대&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1258_행렬찾기&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1221_GNS&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P4047_영준이의_카드_카운팅&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1249_보급로&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1267_작업순서&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1248_공통조상&quot;/&gt;&#13;&#10;"/>
+<launch memento="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;launchConfiguration local=&quot;true&quot; path=&quot;SWEA_P1244_최대_상금&quot;/&gt;&#13;&#10;"/>
+</mruHistory>
+<favorites/>
+</launchGroup>
+</launchHistory>

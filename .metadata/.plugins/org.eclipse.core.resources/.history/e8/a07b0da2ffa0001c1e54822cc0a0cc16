@@ -1,0 +1,8 @@
+package BOJ;
+
+public class Snippet {
+	public static void main(String[] args) {
+		BOJ_P_2669_직사각형_네개의_합집합의_면적_구하기
+	}
+}
+
