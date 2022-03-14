@@ -1,4 +1,21 @@
 ##Solution
 
-- #1204 - 최빈수 구하기 [Solution](https://coderand.tistory.com/entry/SWEA-1204-%EC%B5%9C%EB%B9%88%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0?category=1262896)
-- 
+- [#1204 - 최빈수 구하기](https://coderand.tistory.com/entry/SWEA-1204-%EC%B5%9C%EB%B9%88%EC%88%98-%EA%B5%AC%ED%95%98%EA%B8%B0?category=1262896)
+- [#1206 - View](https://coderand.tistory.com/entry/SWEA-1206-View?category=1262896)
+- [#1208 - Flatten](https://coderand.tistory.com/entry/SWEA-1208-Flatten?category=1262896)
+- [#1209 - Sum](https://coderand.tistory.com/entry/SWEA-1209-Sum?category=1262896)
+- [#1210 - Ladder1](https://coderand.tistory.com/entry/SWEA-1210-Ladder1?category=1262896)
+- [#1213 - String](https://coderand.tistory.com/entry/SWEA-1213-String?category=1262896)
+- [#1215 - 회문1](https://coderand.tistory.com/entry/SWEA-1215-%ED%9A%8C%EB%AC%B81?category=1262896)
+- [#1216 - 회문2](https://coderand.tistory.com/entry/SWEA-1216-%ED%9A%8C%EB%AC%B82?category=1262896)
+- [#1218 - 괄호 짝짓기](https://coderand.tistory.com/entry/SWEA-1218-%EA%B4%84%ED%98%B8-%EC%A7%9D%EC%A7%93%EA%B8%B0?category=1262896)
+- [#1219 - 길찾기](https://coderand.tistory.com/entry/SWEA-1219-%EA%B8%B8%EC%B0%BE%EA%B8%B0?category=1262896)
+- [#1220 - Magnetic](https://coderand.tistory.com/entry/SWEA-1220-Magnetic?category=1262896)
+- [#1221 - GNS](https://coderand.tistory.com/entry/SWEA-1221-GNS?category=1262896)
+- [#1224 - 계산기3](https://coderand.tistory.com/entry/SWEA-1224-%EA%B3%84%EC%82%B0%EA%B8%B03?category=1262896)
+- [#1225 - 암호생성기](https://coderand.tistory.com/entry/SWEA-1225-%EC%95%94%ED%98%B8%EC%83%9D%EC%84%B1%EA%B8%B0?category=1262896)
+- [#1257 - K번째 문자열](https://coderand.tistory.com/entry/SWEA-1257-K%EB%B2%88%EC%A7%B8-%EB%AC%B8%EC%9E%90%EC%97%B4?category=1262896)
+- [#1258 - 행렬찾기](https://coderand.tistory.com/entry/SWEA-1258-%ED%96%89%EB%A0%AC%EC%B0%BE%EA%B8%B0?category=1262896)
+- [#1259 - 금속막대](https://coderand.tistory.com/entry/SWEA-1259-%EA%B8%88%EC%86%8D%EB%A7%89%EB%8C%80?category=1262896)
+- [#1260 - 화학물질2](https://coderand.tistory.com/entry/SWEA-1260-%ED%99%94%ED%95%99%EB%AC%BC%EC%A7%882?category=1262896)
+- [#1767 - 프로세서 연결하기](https://coderand.tistory.com/entry/SWEA-1767-%ED%94%84%EB%A1%9C%EC%84%B8%EC%84%9C-%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0?category=1262896)
