@@ -13,3 +13,6 @@
 ## Link
 - [SWEA](https://github.com/wnsdn2186/Algorithm-Problem-Solving/tree/main/Algorithm%20Problem%20Solving/src/SWEA)
 - [BOJ](https://github.com/wnsdn2186/Algorithm-Problem-Solving/tree/main/Algorithm%20Problem%20Solving/src/BOJ)
+
+## My Blog
+- [CORERAND](https://coderand.tistory.com/)
